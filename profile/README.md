@@ -43,7 +43,7 @@ We welcome contributions from Zig developers of all skill levels! Here's how you
 New to Bitcoin or Zig? Here are some resources to get you started:
 
 - [Zig Language Documentation](https://ziglang.org/documentation/master/)
-- [Bitcoin Developer Guide](https://developer.bitcoin.org/guide/)
+- [Bitcoin Developer Guide](https://developer.bitcoin.org/devguide/index.html)
 - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 
 ## Community Standards
