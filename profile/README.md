@@ -18,7 +18,7 @@ Learn more about our initiative at [bitcoinzig.org](https://www.bitcoinzig.org/)
 
 We're actively developing several Bitcoin-related projects in Zig:
 
-1. [bitcoin-zig](https://github.com/zig-bitcoin/bitcoin-zig): Core Bitcoin primitives implemented in Zig, including base58, bech32, and more.
+1. [bitcoin-primitives](https://github.com/zig-bitcoin/bitcoin-primitives): Core Bitcoin primitives implemented in Zig, including base58, bech32, and more.
 
 2. [btczee](https://github.com/zig-bitcoin/btczee): A full Bitcoin protocol implementation in Zig, including a node, wallet, and miner.
 
